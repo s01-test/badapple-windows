@@ -1,4 +1,4 @@
-[![Bad Apple!! rendered with 150 real Windows at 60 FPS](https://img.youtube.com/vi/puNlEDc_Gow/0.jpg)]([https://www.youtube.com/watch?v=vg0PbuV8-ao](https://www.youtube.com/watch?v=puNlEDc_Gow))
+[![BAD_APPLE.EXE｜Bad Apple!! rendered with 150 real Windows at 60 FPS](https://img.youtube.com/vi/puNlEDc_Gow/0.jpg)](https://www.youtube.com/watch?v=puNlEDc_Gow)
 
 ---
 

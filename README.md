@@ -1,3 +1,7 @@
+[![Bad Apple!! rendered with 150 real Windows at 60 FPS](https://img.youtube.com/vi/puNlEDc_Gow/0.jpg)]([https://www.youtube.com/watch?v=vg0PbuV8-ao](https://www.youtube.com/watch?v=puNlEDc_Gow))
+
+---
+
 # BAD_APPLE.EXE
 Bad Apple!! rendered with 150 real Windows at 60 FPS
 
@@ -45,3 +49,16 @@ badapple-windows/
 - Build from `src/bad_apple.cpp` using a C++ compiler (Visual Studio 2019+ recommended)  
 - `resources/resource.rc` references icon, WAV, and video BIN files  
 - Large video data (`video_layout.bin`) is optional for embedding; the EXE runs standalone.
+
+---
+
+## Source Attribution
+
+The video data used in this project is based on the following
+fan-made "Bad Apple!!" arrangement (4K / 60 FPS):
+
+https://www.youtube.com/watch?v=vg0PbuV8-ao
+
+This project does not claim ownership of the original music or
+the derivative video content.
+All rights belong to their respective creators.

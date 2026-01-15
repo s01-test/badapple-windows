@@ -1,0 +1,10 @@
+// resource.rc
+
+// 101: アイコン
+101 ICON "icon.ico"
+
+// 102: 動画データ (binファイル)
+102 RCDATA "../assets/video_layout.bin"
+
+// 103: BGM (WAVファイル) 
+103 WAVE "../assets/bad_apple.wav"
